@@ -1,4 +1,5 @@
 # Demo 
 
-First example of learning GIT language
-First step to see the commit process
+Example of learning GIT language.
+First example is to test commit process.
+Also to see the update version of the file.
